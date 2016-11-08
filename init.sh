@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "Initialize Program on UNILORN!!"
+echo "Initialize Program on CHANU!!"
 
 echo "##########################################################"
 sudo apt update
@@ -20,6 +20,5 @@ composer config -g repositories.packagist composer https://packagist.jp
 
 
 
-sydo apt -y upgrade
 
 
