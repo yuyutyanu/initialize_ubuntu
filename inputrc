@@ -1,0 +1,4 @@
+# ~/.inputrc
+
+#補完時に大文字小文字を区別せず保管する
+set completion-ignore-case on

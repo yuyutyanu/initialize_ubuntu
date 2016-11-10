@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "Initialize Program on CHANU!!"
+echo "Initialize Program"
 
 echo "##########################################################"
 sudo apt update
@@ -17,8 +17,3 @@ echo "################### composer install #####################"
 curl -sS https://getcomposer.org/installer | php
 sudo mv composer.phar /usr/local/bin/composer
 composer config -g repositories.packagist composer https://packagist.jp
-
-
-
-
-
